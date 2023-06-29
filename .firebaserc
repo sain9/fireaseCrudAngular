@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "studentsdb-9f0b1": {
+      "hosting": {
+        "Firebase_realtimeDb": [
+          "studentsdb-9f0b1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "studentsdb-9f0b1"
+  }
+}
